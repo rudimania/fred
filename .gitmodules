@@ -1,0 +1,3 @@
+[submodule "rudi"]
+	path = rudi
+	url = file:///users/mrhackintosh/submodules/rudi
