@@ -1,3 +1,6 @@
 [submodule "rudi"]
 	path = rudi
 	url = file:///users/mrhackintosh/submodules/rudi
+[submodule "mysubmodel"]
+	path = mysubmodel
+	url = https://github.com/rudimania/mysubmodel.git
